@@ -1,0 +1,215 @@
+[CHAPTER]
+TIMEBASE=1/10
+START=0
+END=220
+title=Opening Credits
+
+[CHAPTER]
+TIMEBASE=1/10
+START=220
+END=1400
+title=Acknowledgments
+
+[CHAPTER]
+TIMEBASE=1/10
+START=1400
+END=10900
+title=Introduction
+
+[CHAPTER]
+TIMEBASE=1/10
+START=10900
+END=27245
+title=Chapter 1: Ledgers as the Foundation of Money
+
+[CHAPTER]
+TIMEBASE=1/10
+START=27245
+END=55420
+title=Chapter 2: The Evolution of Commodities as Money
+
+[CHAPTER]
+TIMEBASE=1/10
+START=55420
+END=66660
+title=Chapter 3: How Gold Won the Commodity War
+
+[CHAPTER]
+TIMEBASE=1/10
+START=66660
+END=89240
+title=Chapter 4: A Unified Theory of Money
+
+[CHAPTER]
+TIMEBASE=1/10
+START=89240
+END=98055
+title=Chapter 5: Protobanking and the Hawala System
+
+[CHAPTER]
+TIMEBASE=1/10
+START=98055
+END=111055
+title=Chapter 6: The Innovation of Double Entry Bookkeeping
+
+[CHAPTER]
+TIMEBASE=1/10
+START=111055
+END=127775
+title=Chapter 7: Free Banking Versus Central Banking
+
+[CHAPTER]
+TIMEBASE=1/10
+START=127775
+END=146260
+title=Chapter 8: The Speed of Transactions Versus the Speed of Settlements
+
+[CHAPTER]
+TIMEBASE=1/10
+START=146260
+END=156580
+title=Chapter 9: Printing Money for War
+
+[CHAPTER]
+TIMEBASE=1/10
+START=156580
+END=171750
+title=Chapter 10: The Bretton Woods System
+
+[CHAPTER]
+TIMEBASE=1/10
+START=171750
+END=184890
+title=Chapter 11: The Rise of the Petrodollar
+
+[CHAPTER]
+TIMEBASE=1/10
+START=184890
+END=200510
+title=Chapter 12: Pushing Chaos to the Periphery
+
+[CHAPTER]
+TIMEBASE=1/10
+START=200510
+END=231315
+title=Chapter 13: Heavy Is the Head That Wears the Crown
+
+[CHAPTER]
+TIMEBASE=1/10
+START=231315
+END=242035
+title=Chapter 14: The Modern Financial System
+
+[CHAPTER]
+TIMEBASE=1/10
+START=242035
+END=279515
+title=Chapter 15: How Fiat Currency Is Created and Destroyed
+
+[CHAPTER]
+TIMEBASE=1/10
+START=279515
+END=313435
+title=Chapter 16: Pricing as a Mechanism for Organization
+
+[CHAPTER]
+TIMEBASE=1/10
+START=313435
+END=325475
+title=Chapter 17: The Financialization of Everything
+
+[CHAPTER]
+TIMEBASE=1/10
+START=325475
+END=338430
+title=Chapter 18: Beneficiaries of the Cantillon Pact
+
+[CHAPTER]
+TIMEBASE=1/10
+START=338430
+END=372900
+title=Chapter 19: The Long-Term Debt Cycle
+
+[CHAPTER]
+TIMEBASE=1/10
+START=372900
+END=399480
+title=Chapter 20: The Creation of Stateless Money
+
+[CHAPTER]
+TIMEBASE=1/10
+START=399480
+END=425600
+title=Chapter 21: Bitcoin’s Path of Monetization
+
+[CHAPTER]
+TIMEBASE=1/10
+START=425600
+END=440840
+title=Chapter 22: Cryptocurrencies and Tradeoffs
+
+[CHAPTER]
+TIMEBASE=1/10
+START=440840
+END=451610
+title=Chapter 23: The Lightning Network
+
+[CHAPTER]
+TIMEBASE=1/10
+START=451610
+END=485670
+title=Chapter 24: Proof of Work Versus Proof of Stake
+
+[CHAPTER]
+TIMEBASE=1/10
+START=485670
+END=521830
+title=Chapter 25: How Bitcoin Uses Energy
+
+[CHAPTER]
+TIMEBASE=1/10
+START=521830
+END=544175
+title=Chapter 26: Cryptocurrency Risk Analysis
+
+[CHAPTER]
+TIMEBASE=1/10
+START=544175
+END=560675
+title=Chapter 27: Stable Coins and Central Bank Digital Currencies
+
+[CHAPTER]
+TIMEBASE=1/10
+START=560675
+END=588475
+title=Chapter 28: The Degradation of Privacy
+
+[CHAPTER]
+TIMEBASE=1/10
+START=588475
+END=604435
+title=Chapter 29: Asymmetric Payments
+
+[CHAPTER]
+TIMEBASE=1/10
+START=604435
+END=629535
+title=Chapter 30: A World of Openness or a World of Control
+
+[CHAPTER]
+TIMEBASE=1/10
+START=629535
+END=629705
+title=Endnote: Accompanying PDF
+
+[CHAPTER]
+TIMEBASE=1/10
+START=629705
+END=630575
+title=About the Author
+
+[CHAPTER]
+TIMEBASE=1/10
+START=630575
+END=630805
+title=End Credits
